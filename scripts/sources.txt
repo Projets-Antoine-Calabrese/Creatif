@@ -1,0 +1,6 @@
+# dépôt source | dossier dans la source | destination | éléments (* = tout ; a=>b renomme) | mode (vide = automatique, manuel = seulement sur demande /nom)
+greensock/gsap-skills | skills | .claude/skills | gsap-core gsap-timeline gsap-scrolltrigger gsap-plugins gsap-utils gsap-performance gsap-frameworks
+anthropics/skills | skills | .claude/skills | algorithmic-art canvas-design
+freshtechbro/claudedesignskills | .factory/skills | .claude/skills | threejs-webgl pixijs-2d animejs lottie-animations lightweight-3d-effects scroll-reveal-libraries
+yihui-dev/awesome-opus5-5-videos | prompts | inspirations/animations/prompts | *
+yihui-dev/awesome-opus5-5-videos | data | inspirations/animations/data | *
