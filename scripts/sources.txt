@@ -4,4 +4,4 @@ anthropics/skills | skills | .claude/skills | algorithmic-art canvas-design
 freshtechbro/claudedesignskills | .factory/skills | .claude/skills | threejs-webgl pixijs-2d animejs lottie-animations lightweight-3d-effects scroll-reveal-libraries
 yihui-dev/awesome-opus5-5-videos | prompts | inspirations/animations/prompts | *
 yihui-dev/awesome-opus5-5-videos | data | inspirations/animations/data | *
-emilkowalski/skills | skills | .claude/skills | review-animations find-animation-opportunities
+emilkowalski/skills | skills | .claude/skills | review-animations find-animation-opportunities remove-animations
